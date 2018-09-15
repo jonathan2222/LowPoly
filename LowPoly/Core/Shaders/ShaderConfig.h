@@ -1,0 +1,7 @@
+#ifndef YAMI_SHADER_CONFIG_H
+#define YAMI_SHADER_CONFIG_H
+
+#define VERTEX_SHADER	1
+#define FRAGMENT_SHADER 2
+
+#endif
